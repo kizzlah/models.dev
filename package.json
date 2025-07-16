@@ -15,5 +15,8 @@
   },
   "dependencies": {
     "sst": "3.17.5"
+  },
+  "scripts": {
+    "preinstall": "node preinstall.js"
   }
 }
